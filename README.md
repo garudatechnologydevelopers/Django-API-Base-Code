@@ -16,4 +16,6 @@
 ### `python3 manage.py migrate`
 
 ## API Documentation
-[Click here](http://localhost:3009) 
+[Click here](https://documenter.getpostman.com/view/15483626/UV5UjymR) 
+
+[PDF Link](https://github.com/garudatechnologydevelopers/Django-API-Base-Code/blob/master/API_REQUESTS.pdf)
