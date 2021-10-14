@@ -16,6 +16,6 @@
 ### `python3 manage.py migrate`
 
 ## API Documentation
-[Click here](https://documenter.getpostman.com/view/15483626/UV5UjymR) 
+[Click here](https://documenter.getpostman.com/view/15483626/UV5UjymR)  = https://documenter.getpostman.com/view/15483626/UV5UjymR 
 
-[PDF Link](https://github.com/garudatechnologydevelopers/Django-API-Base-Code/blob/master/API_REQUESTS.pdf)
+[PDF Link](https://github.com/garudatechnologydevelopers/Django-API-Base-Code/blob/master/API_REQUESTS.pdf) = https://github.com/garudatechnologydevelopers/Django-API-Base-Code/blob/master/API_REQUESTS.pdf
