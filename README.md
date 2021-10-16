@@ -8,6 +8,7 @@
 
 ## Command to run server 
 ### `python3 manage.py runserver 8001`
+### `python3 manage.py runserver 800O`
 
 ## Command for migrations 
 ### `python3 manage.py makemigrations`
